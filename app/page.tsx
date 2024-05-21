@@ -19,14 +19,15 @@ export default function Home() {
           <p className="text-gray-200 hidden md:block text-justify">
             I have always pursued my dream to become a professional Frontend
             Developer. I always learn day by day rather my dreams come true, and
-            always meet every challenge. 
-            <br />My specialties include quickly learning
-            new skills and programming languages, problem solving, responsive
-            design principles, and website optimization. So far I have
-            JavaScript, TypeScript, Bootstrap, React, React Native, Chakra Ui,
-            TailwindCSS under my belt. I'm still enthusiastically grabbing onto
-            any other programming languages, frameworks, or principles I can
-            integrate into the coding web in my head.
+            always meet every challenge.
+            <br />
+            My specialties include quickly learning new skills and programming
+            languages, problem solving, responsive design principles, and
+            website optimization. So far I have JavaScript, TypeScript,
+            Bootstrap, React, React Native, Chakra Ui, TailwindCSS under my
+            belt. I'm still enthusiastically grabbing onto any other programming
+            languages, frameworks, or principles I can integrate into the coding
+            web in my head.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5 mx-auto">
             <Link
