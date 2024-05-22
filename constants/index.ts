@@ -51,29 +51,29 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Framer Motion",
-    Image: "/framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    name: "Stripe Payment",
-    Image: "/stripe.webp",
-    width: 80,
-    height: 80,
-  },
-  {
     name: "Node js",
     Image: "/node-js.png",
     width: 80,
     height: 80,
   },
-  {
-    name: "Mongo db",
-    Image: "/mongodb.png",
-    width: 40,
-    height: 40,
-  },
+  // {
+  //   name: "Framer Motion",
+  //   Image: "/framer.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   name: "Stripe Payment",
+  //   Image: "/stripe.webp",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   name: "Mongo db",
+  //   Image: "/mongodb.png",
+  //   width: 40,
+  //   height: 40,
+  // },
 ];
 
 export const Socials = [
@@ -93,24 +93,24 @@ export const Socials = [
 
 export const Projects = [
   {
-    title: "",
-    text: "",
-    src: "",
+    title: "Modern Nextjs Website",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/NextWebsite.png",
   },
   {
-    title: "",
-    text: "",
-    src: "",
+    title: "Space Themed Website",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/SpaceWebsite.png",
   },
   {
-    title: "",
-    text: "",
-    src: "",
+    title: "Modern Nextjs Portfolio",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/WebPortfolio.png",
   },
   {
-    title: "",
-    text: "",
-    src: "",
+    title: "Matrix themed Website",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/Matrix.png",
   },
 ];
 
