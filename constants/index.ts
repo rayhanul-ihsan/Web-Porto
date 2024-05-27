@@ -93,24 +93,24 @@ export const Socials = [
 
 export const Projects = [
   {
-    title: "Modern Nextjs Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/NextWebsite.png",
+    title: "ToaTalk",
+    text: "Toatalk is a web-based social media application where users can follow each other and communicate with one another through posting threads consisting of text or images. Users can also like posts.",
+    src: "/home.png",
   },
   {
-    title: "Space Themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/SpaceWebsite.png",
+    title: "ThinkThank Apps",
+    text: "thinkthank is a mobile-based trivia game that can be played multiplayer. This project was developed as a group by 2 Frontend and 2 Backend developers. Some of the features include:login with Google, top-up diamonds, purchase avatars, game matching with users who want to play, and ranking.",
+    src: "",
+  },
+  {
+    title: "Rumah Quran Al-Inayah",
+    text: "Rumah Qur'an Al Inayah is a web-based student assessment system that helps teachers monitor attendance and progress and makes it easy to provide accurate assessments on report cards.",
+    src: "",
   },
   {
     title: "Modern Nextjs Portfolio",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/WebPortfolio.png",
-  },
-  {
-    title: "Matrix themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/Matrix.png",
+    text: "",
+    src: "",
   },
 ];
 
