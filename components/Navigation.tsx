@@ -20,7 +20,7 @@ const Navigation = () => {
     if (isRouting) {
       setPrevPath(path);
       const timeOut = setTimeout(() => {
-        setIsRouting(false);
+        setIsRouting(false); 
       }, 1200);
       return () => clearTimeout(timeOut);
     }
@@ -28,9 +28,9 @@ const Navigation = () => {
   return (
     <div
       style={{ left: "20%" }}
-      className="absolute z-[50] -bottom-20 w-[50%] md:w-[20%] max-h-[150px] rounded-full flex justify-between item-center border bg-black border-white px-4 py-7"
+      className=" fixed z-[50] -bottom-20 w-[50%] md:w-[20%] max-h-[150px] rounded-full flex justify-between item-center border bg-black border-white px-4 py-7"
     >
-      {isRouting && <Transition/>}
+      {/* {isRouting && <Transition/>} */}
       {NavLinks.map((nav) => (
         <Link
           key={nav.name}

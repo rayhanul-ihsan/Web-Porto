@@ -27,7 +27,7 @@ const ContactForm = () => {
           className="w-full mb-5 px-3 py-2 text-sm text-gray-200 placeholder-gray-200 bg-black border-0 rounded shadow"
         />
       </div>
-      <button className="px-6 py-3 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear bg-blue-500 hover:bg-blue-400 rounded-md ">
+      <button className="px-6 py-3 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear bg-gradient-to-r from-purple-500 to-dark-500 hover:bg-blue-400 rounded-full ">
         Send a message
       </button>
     </form>
